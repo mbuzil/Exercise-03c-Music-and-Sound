@@ -3,6 +3,7 @@
 Exercise for MSCH-C220
 
 Adding music, sound, typeface changes, and several "juicy" features to a simple match-3 game.
+Coin folder is in the UI folder
 
 ## To play
 
